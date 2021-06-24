@@ -1,0 +1,81 @@
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\E-PlayersMVC.exe
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\bg-lol.jpg
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Counter-Strike-Logo.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Equipes\bg-lol.jpg
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\facebook 1.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\facebook.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\FIFA_logo.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\FLA 1.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\fla-logo.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\formula-1-logo.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\fundo 2.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\fundo.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Group 1.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Group 53.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Group 6.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Inicio.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\instagram 1.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\instagram.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\league-of-legends-champions.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\logo 3.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\logo-lol.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\logo.svg
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\pilotos.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\player.jpg
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\psn-platinum 2.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Rectangle 13.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Rectangle 16.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Rectangle 17.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Rectangle 6.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Rectangle menina.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\sk-logo.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Valorant  jogador 2.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\Valorant  jogador.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\valorant-logo.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\youtube 1.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\assets\youtube.png
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\css\site.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\css\Style.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\favicon.ico
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\js\site.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\LICENSE
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\E-PlayersMVC.dll
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\E-PlayersMVC.deps.json
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\E-PlayersMVC.runtimeconfig.json
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\E-PlayersMVC.pdb
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\E-PlayersMVC.Views.dll
+C:\Users\Usuario\Documents\Julia\SENAI\E-PlayersMVC\bin\Debug\net5.0\publish\E-PlayersMVC.Views.pdb

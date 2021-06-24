@@ -1,0 +1,754 @@
+ 
+ 
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ .container{
+     width: 100%;
+ }
+
+ header{
+     background-color: #1E1C21;
+     width: 100%;
+     height: 60px;
+     position:fixed;
+     top: 0;
+ }
+
+ .container_header{
+    display: flex;
+    justify-content: center;
+    height: 35px;
+    margin-top: 13px;
+ }
+
+ .nav_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 645px;
+    margin-left: 158px;
+    margin-right: 26px;
+ }
+
+ .nav_header a{
+     color: white;
+     text-decoration: none;
+     text-transform:uppercase;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: 14px;
+ }
+
+ .erro{
+    color:#EB2D2D;
+ }
+
+ main{
+    margin-top: 60px;
+ }
+
+ .container_banner{
+    background-image: url(../assets/Group\ 1.png);
+    height: 555px;
+}
+
+.box_banner{ 
+    display: flex
+}
+
+.troféu{
+   height: 529px;
+   margin-top: 26px;
+   padding-left: 101px;
+}
+
+.escrita_banner{
+    padding-left: 119px;
+    margin-top: 95px;;
+}
+
+h1{
+   font-family: 'Titillium Web', sans-serif;
+   font-size: 76px;
+   color: #FFFBFB;
+}
+
+.box_banner span{
+   font-family: 'Titillium Web', sans-serif;
+   font-size: 26px;
+   color: #FFFBFB;
+   margin-left: 43px;
+}
+
+.cadastrar_banner{
+   color:white;
+   font-size: 27px;
+   background-color: #EB2D2D;
+   border-radius: 4px;
+    margin-left: 150px;
+    height: 63px;
+    width: 213px;
+    display: grid;
+    margin-top: 48px;
+    padding: 14px;
+}
+
+.cad_banner{
+   color:white;
+   font-size: 27px;
+   background-color: #001F70;
+   border-radius: 4px;
+    margin-left: 150px;
+    height: 63px;
+    width: 213px;
+    display: grid;
+    margin-top: 48px;
+    padding: 14px;
+}
+
+.container_games{
+   background-color: #1E1C21;
+   display: flex;
+   height: 130px;
+}
+
+.box_games{
+    /* background: cyan; */
+   display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 91vw;
+    margin-left: 39px;
+}
+
+.container_participantes{
+   height: 510px;
+   background-image: url(../assets/fundo.png);
+}
+
+.box_participantes{
+   background-color: #1E1C21;
+   clip-path: polygon(100% 0%, 100% 83%, 0 100%, 0 16%);
+    display: flex;    
+    height: 502px;
+}
+
+.participar{
+    /* margin-top: 106px; */
+    margin-left: 96px;
+}
+
+h2{
+   color:#F9F6F6;
+   font-family: 'Titillium Web', sans-serif;
+   font-size: 30px;
+   margin-bottom: 19px;
+}
+
+.box_participantes p{
+   color:#F9F6F6;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-size: 20px;
+    white-space: pre-line; 
+    margin-right: 134px;
+}
+
+.img_participantes{
+   display: flex;
+   height: 446px;
+   margin-top: 4px;
+   margin-right: 115px;
+}
+
+.container_jogos{
+   background-color: #1E1C21;
+   height: 108px;
+   display: flex;
+}
+
+.box_jogos{
+   /* background-color: violet; */
+   display:flex;
+   text-transform: uppercase;
+    align-items: center;
+    justify-content: space-evenly;
+     width: 87vw;
+    margin-left: 74px;
+}
+
+.box_jogos span{
+   color: #F9F6F6;
+   font-size: 24px;
+}
+
+hr{
+   color:white;
+   height:62px
+}
+
+.cont_noticias_jogos{
+   background: rgba(6, 5, 8, 0.86);
+   height: 995px;
+}
+
+.flex_noticia{
+   display: flex;
+   justify-content: space-between;
+}
+
+.box_noticias{
+   flex-direction: column;
+}
+
+.box_noticias h3{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 33px;
+   color:white;
+   margin-left: 14%;
+    margin-top: 40px;
+}
+
+.cont_article{
+   display: flex;
+   flex-wrap: wrap;
+   width:763px;
+   justify-content: space-between;
+   height: 900px;
+   align-items: center;
+   margin-left: 14%;
+}
+
+.estilo_noticias{
+    background: linear-gradient(180deg, #787779 2.58%, #3F3D43 29.36%, #040404 76.49%);
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.2);
+    width: 211px;
+   height: 190px;
+   text-align: left;
+}
+
+article img{
+   width:211px;
+}
+
+.estilo_noticias h4{
+   font-family: 'Titillium Web', sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 24px;
+   color: white;
+   padding: 8px 0;
+   margin-left: 7%;
+}
+
+.estilo_noticias p{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 17px;
+   color: white;
+   margin-left: 3%;
+}
+
+.box_proximos{
+   display: flex;
+   flex-direction: column;
+   margin-right: 9%;
+}
+
+.box_proximos h3{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   color: white;
+   margin-top: 15%;
+}
+
+.cont_proximos{
+   height:901px;
+   display:flex;
+   align-items: center;
+}
+
+.fundo_proximos{
+   background: linear-gradient(182.36deg, rgba(3, 3, 3, 0.57) 0.73%, rgba(110, 110, 110, 0.45) 92.26%);
+   box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.2);
+   height: 824px;
+   width: 279px;
+}
+
+.estilo_proximos{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+   height: 105px;
+}
+
+.estilo_proximos p{
+   font-family: 'Titillium Web', sans-serif;
+   font-size: 20px;
+   font-weight: 400;
+   font-style: normal;
+}
+
+
+
+
+               /* Equipe */
+main{
+   margin-top: 60px;
+}
+.container_times{
+   width: 100%;
+   height: 237px;   
+   background-image: url(../assets/fundo\ 2.png);
+}
+
+h1{
+  color: #FFFFFF;
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
+   font-weight: bold;
+   font-size: 40px;
+   align-items: center;
+    display: flex;
+   justify-content: space-evenly;
+    padding-top: 92px;
+}
+
+.container_cadastro_lista{
+  background: #1E1C21;
+  align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 779px
+}
+
+.box_cadastroE{
+   width: 770px;
+   height: 340px;
+   background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+   box-shadow: 1px 1px 20px 4px #000000;
+   margin-bottom: 273px;
+}
+
+.box_equipe{
+  /* background-color: thistle; */
+  display: grid;
+  justify-content: center;
+  height: 338px;
+} 
+
+.equipe{
+  display: flex;
+ flex-direction: column;
+ margin-top: 9%;
+}
+
+.box_equipe span{
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: normal;
+   font-weight: normal;
+  font-size: 20px;
+}
+
+.espaço_escrever{
+  width: 546px;
+  height: 28px;
+  background-color: #ABABAB;
+}
+
+.emblema{
+  display: flex;
+ flex-direction: column;
+}
+
+.por_imagem{
+   width: 134px;
+   height: 28px;
+   background-color: #ABABAB;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 15px;
+   padding: 5px;
+}
+
+.cadastrar_box{
+  font-size: 24px;
+  color:white;
+  background: #001F70;
+  border-radius: 18px;
+  width: 187px;
+  height: 44px;
+  margin-left: 34%;
+  padding: 8px;
+  text-decoration: none;
+}
+
+h2{
+  color: #FFFFFF;
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
+   font-weight: bold;
+   font-size: 40px;
+   display: flex;
+   justify-content: center;
+   margin-top: 94px;
+   height: 64px;
+}
+
+.box_lista{
+   border:none;
+} 
+
+.escrita{
+   border-right: none;
+}
+
+.escrita_2{
+ border-left: none; 
+}
+
+th{
+   background: #010101;
+   border: 1px solid #FFFFFF; 
+   color: #FFFFFF;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 21px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   width: 770px;
+} 
+
+td{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  color:white;
+   border: 1px solid #FFFFFF;
+   border-top: none;
+}
+
+.linha{
+ border-right: none; 
+}
+
+.linha td{
+ border-bottom: none;   
+}
+
+.linha_img{
+   border-left: none;
+} 
+
+
+
+
+
+                 /* Jogadores */
+ main{
+   margin-top: 60px;
+}
+.container_jogador{
+   width: 100%;
+   height: 237px;
+   background-image: url(../assets/Group\ 53.png);
+}
+
+h1{
+   color: #FFFFFF;
+   font-family: 'Titillium Web', sans-serif;
+   font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    align-items: center;
+     display: flex;
+    justify-content: space-evenly;
+     padding-top: 92px;
+}
+
+.container_cadastro_lista{
+   background: #1E1C21;
+   align-items: center;
+     display: grid;
+     justify-content: center;
+     
+}
+
+.box_cadastroJ{
+   width: 770px;
+   background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+   box-shadow: 1px 1px 20px 4px #000000;
+   margin-top: 70px;
+   height: 627px;
+}
+
+.box_jogador{
+   display: grid;
+   justify-content: center;
+   height: 582px;
+   margin-top: 7%;
+}
+
+.jogador{
+   display: flex;
+   flex-direction: column;
+}
+
+.box_jogador span{
+   color: white;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-style: normal;
+    font-weight: normal;
+   font-size: 20px;
+}
+
+.espaço_escrever{
+   width: 546px;
+   height: 28px;
+   background-color: #ABABAB;
+}
+
+.e-mail{
+   display: flex;
+   flex-direction: column;
+}
+
+.senha{
+   display: flex;
+   flex-direction: column;
+}
+
+.equipe{
+   display: flex;
+   flex-direction: column;
+   margin-top: 25px;
+}
+
+select {
+  width:546px;
+  height: 28px;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #ABABAB;
+}
+
+.cadastrar_box{
+   font-size: 24px;
+   color:white;
+   background: #C31616;
+   border-radius: 18px;
+   width: 245px;
+   height: 37px;
+   margin-left: 26%;
+   padding: 3px;
+   margin-top:51px;
+   text-align: center;
+   text-decoration: none;
+}
+
+h2{
+   color:white;
+   font-family: 'Titillium Web', sans-serif;
+   font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+     display: flex;
+    justify-content: center;
+    margin-top: 94px; 
+    height: 64px; 
+}
+
+ .box_lista{
+  border:none;
+  width: 770px;
+  padding-bottom: 63px;
+} 
+
+.escrita{
+  border-right: none;
+}
+
+.escrita_2{
+border-left: none; 
+} 
+
+th{
+  background: #010101;
+  border: 1px solid #FFFFFF; 
+  color: #FFFFFF;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width: 770px; 
+}   
+
+td{
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 19px;
+ color:white;
+  border: 1px solid #FFFFFF;
+  border-top: none;
+}
+
+.linha{
+border-right: none; 
+}
+
+.linha td{
+border-bottom: none;   
+}
+
+.linha_img{
+  border-left: none;
+} 
+
+
+
+
+tbody{
+   background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container_footer{
+   background-color: #211C1D;
+   height: 308px;
+}
+
+.box_footer{
+   /* background-color: teal; */
+   display: flex;
+   justify-content: space-evenly;
+   margin-left: 7%;
+
+}
+
+.links_uteis{
+   list-style-position: outside;
+   display: flex;
+   flex-direction: column;
+   padding-top: 25px;
+}
+
+h5{
+   font-family: 'Titillium Web', sans-serif;
+   font-size: 24px;
+   font-weight: 400;
+   font-style: normal;
+   color: white;
+}
+
+.links_uteis li{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-size: 17px;
+   font-weight: 700;
+   font-style: normal;
+   color: white;
+   margin: 16px;
+}
+
+.links_uteis li::marker{
+   font-size: 30px;
+}
+
+.paginas{
+   list-style-position: outside;
+   display: flex;
+   flex-direction: column;
+   padding-top: 24px;
+   margin-left: 3%;
+}
+
+.paginas li{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-size: 17px;
+   font-weight: 700;
+   font-style: normal;
+   color: white;
+   margin: 14px;
+}
+
+.paginas li::marker{
+   font-size: 30px;
+}
+
+.logo_footer{
+    height: 25px;
+    width: 283px;
+    margin-top: 10%;
+}
+
+.box_2{
+   width:  445px;
+}
+
+.parte_cadastrar{
+   padding-top: 24px;
+}
+
+.nav_footer{
+   margin-left: 11%;
+   display: flex;
+}
+
+.e_mail{
+   background-color:white;
+   border-radius: 4px;
+   width: 152px;
+   height: 26px;
+}
+
+.cadastrar{
+   font-size: 21px;
+   color:white;
+   background-color: blue;
+   border-radius: 4px;
+   width: 152px;
+   height: 28px;
+}
+
+.parte_cadastrar span{
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color:white;
+   font-size: 16px;
+   font-weight: 400;
+   font-style: normal;
+}
+
+.redes_sociais img{
+   width: 61px;
+   height: 58px;
+}
+
+.redes_sociais{
+   display: flex;
+    align-items: center;
+    margin-top: 33%;
+    margin-left: 4%;
+}
