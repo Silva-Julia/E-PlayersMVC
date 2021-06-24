@@ -1,0 +1,58 @@
+@model Equipe
+@{
+    ViewData["Title"] = "Equipes";
+}
+
+
+<section class="container_times">
+    <h1> Cadastro de @ViewData["Title"] </h1>
+</section>
+
+<section class="container_cadastro_lista">
+    <form class="box_cadastroE" method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data">
+        <div class="box_equipe">
+            <div class="equipe">
+                <label>IdEquipe </label>
+                <input type="text" name="IdEquipe" />
+            </div>
+
+            <div class="equipe">
+                <label>Nome</label>
+                <input type="text" name="Nome" />
+            </div>
+
+            <div class="emblema">
+                <label> Imagem </label>
+                <input type="file" name="Imagem">
+            </div>
+
+            <input class="espaço_escrever" type= "text" value="">
+
+            <button class="cadastrar_box" type="submit">Cadastrar</button>
+
+        </div>
+
+    </form>
+</section>
+
+<table>
+
+    <thead>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Foto</th>
+    </thead>
+
+    <tbody>
+        @foreach (Equipe equipe in ViewBag.Equipes)
+        {
+            <tr>
+                <td>@equipe.IdEquipe</td>
+                <td>@equipe.Nome</td>
+                <td><img src="/assets/Equipe/@equipe.Imagem" alt="Imagem da Equipe @equipe.Nome" width="50px"></td>
+                <td> <a asp-area="" asp-controller="Equipe" asp-action="Excluir" asp-route-id="@equipe.IdEquipe">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

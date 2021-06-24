@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - E_PlayersMVC</title>
+    <link rel="stylesheet" href="~/css/Style.css"/>
+</head>
+
+<body>
+    <header>
+        <div class="container container_header">
+            <img src="/assets/logo.svg" alt="Logo do E-Players">
+            <nav id="links" class="nav_header">
+                <a asp-area="" asp-controller="Home" asp-action="Index"> Início</a>
+                <a href="#cont_noticias_jogos"> Horários</a>
+                <a href="#container_participantes" > Campeonato</a>
+                <a href="#container_jogos" > Resultados</a>
+                <a href="#cont_noticias_jogos"> Notícias</a>
+
+
+                @if (ViewBag.UserName != null)
+                {
+                    <li> Ola @ViewBag.UserName</li>
+                    <a asp-area="" asp-controller="Login" asp-action="Logout"> Logout </a>
+                }
+                else
+                {
+                    <a asp-area="" asp-controller="Login" asp-action="Index"> Login</a>
+
+                }
+
+            </nav>
+        </div>
+    </header>
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class=" container container_footer">
+            <div class="box_footer">
+                <div class="links_uteis">
+                    <h5> Links Úteis </h5>
+                    <ul>
+                        <li> regras de utilização </li>
+                        <li> suporte </li>
+                        <li> central de ajuda </li>
+                        <li> contato </li>
+                    </ul>
+                </div>
+
+                <div class="paginas">
+                    <h5> Páginas</h5>
+                    <ul>
+                        <li> início </li>
+                        <li> campeonatos </li>
+                        <li> resultados </li>
+                        <li> notícias </li>
+                        <li> login/cadastro </li>
+                    </ul>
+                </div>
+                <img class="logo_footer" src="/assets/logo 3.png" alt="E-Players">
+                <div class="box_2">
+                    <div class="parte_cadastrar">
+                        <span> Faça parte do nosso clan, assine nossa newsletter!</span>
+                        <form class="nav_footer">
+                            <input class="e_mail" type="nav" value="E-mail">
+                            <button class="cadastrar"> Cadastrar</button>
+                        </form>
+                    </div>
+                    <div class="redes_sociais">
+                        <h5> Siga-nos em:</h5>
+                        <img src="/assets/instagram 1.png" alt="Instagram">
+                        <img src="/assets/facebook 1.png" alt="Facebook">
+                        <img src="/assets/youtube 1.png" alt="Youtube">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
